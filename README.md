@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FullStack;The+future+is+today;Seja+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
