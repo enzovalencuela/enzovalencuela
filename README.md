@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=070f18size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FullStack;The+future+is+today;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=070f18size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
@@ -41,7 +41,7 @@
 <div align="center">
   <h3>Minhas ferramentas de programação</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,netlify,npm,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,npm,vscode,canva)](https://skillicons.dev)
 </div>
 
   
