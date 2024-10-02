@@ -41,7 +41,7 @@
 <div align="center">
   <h3>Minhas ferramentas de programação</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,npm,vscode,canva)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,npm,vscode)](https://skillicons.dev)
 </div>
 
   
