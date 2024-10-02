@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=051015&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Enzo+Valen%C3%A7uela+;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Bem+Vindo!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=051015&vCenter=true&width=800&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Enzo+Valen%C3%A7uela+;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Bem+Vindo!)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
