@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000size=50&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Enzo+Valençuela;Eu+sou+Desenvolvedor+FrontEnd;The+future+is+today;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
@@ -48,7 +48,7 @@
 <hr>
  
 <div align="center"> 
-  <a href="https://www.instagram.com/dev_enzo_valencuela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dev_nexgen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:esilvavalencuela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-silva10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
