@@ -1,8 +1,3 @@
-<div align="center">
-<h1><b> 👋 Olá, eu sou Enzo Valençuela!<b></h1>
-  <p>Sou um desenvolvedor Front End apaixonado por tecnologia e design. Atualmente, estou focando em aprimorar minhas habilidades em desenvolvimento Full Stack.</p> <br> <br>
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=051015&center=true&width=800&lines=A+melhor+maneira+de+prever+o+futuro+é+inventa-lo!)](https://git.io/typing-svg)<br>
 
 
