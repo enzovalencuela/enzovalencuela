@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=051015&center=true&width=800&lines=A+melhor+maneira+de+prever+o+futuro+é+inventa-lo!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=051015&center=true&width=800&lines=My+competition+is+with+myself)](https://git.io/typing-svg)<br>
 
 
 <div align="center">
