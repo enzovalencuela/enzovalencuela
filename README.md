@@ -71,8 +71,7 @@
 
 <h2>🌱 Projetos em Destaque</h2>
 <ul>
-    <li><a href="https://github.com/enzovalencuela/World-Football-Players">World Football Players</a>: Uma aplicação web que permite a pesquisa de jogadores de futebol, com informações detalhadas sobre cada um.</li>
-    <li><a href="https://github.com/enzovalencuela/landing-page-arquitetura">Landing Page de Arquitetura</a>: Um projeto de landing page responsiva com formulário funcional.</li>
+    <li><a href="https://github.com/enzovalencuela/World-Football-Players">World Football Players</a>: Uma aplicação web que permite a pesquisa de jogadores de futebol, com informações detalhadas sobre cada um</li>
 </ul>
 
 </div>
