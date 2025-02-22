@@ -24,7 +24,7 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -40,7 +40,7 @@
 <div align="center">
   <h3>Minhas ferramentas de programação</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,vite,tailwind,git,github,netlify,npm,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,vite,npm,git,github,netlify,vscode)](https://skillicons.dev)
 </div>
 
   
