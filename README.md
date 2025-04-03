@@ -32,7 +32,7 @@
 <div align="center">
   <h3>Main skills → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,django,nestjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,nestjs)](https://skillicons.dev)
 </div>
 
 <hr>
