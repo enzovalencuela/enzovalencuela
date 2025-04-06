@@ -24,7 +24,7 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -32,7 +32,7 @@
 <div align="center">
   <h3>Main skills → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,nestjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,node)](https://skillicons.dev)
 </div>
 
 <hr>
