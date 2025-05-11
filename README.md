@@ -70,10 +70,6 @@
     <li>React: Construindo projetos para entender melhor o ecossistema do React e sua abordagem de componentes.</li>
 </ul>
 
-<h2>🌱 Projetos em Destaque</h2>
-<ul>
-    <li><a href="https://github.com/enzovalencuela/World-Football-Players">World Football Players</a>: Uma aplicação web que permite a pesquisa de jogadores de futebol, com informações detalhadas sobre cada um</li>
-</ul>
 
 </div>
 
