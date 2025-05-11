@@ -34,7 +34,7 @@
 <div align="center">
   <h3>Main skills → Back-end</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,nodejs,mysql,ts,express)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -42,7 +42,7 @@
 <div align="center">
   <h3>Minhas ferramentas de programação</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,vite,npm,git,github,netlify,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,firebase)](https://skillicons.dev)
 </div>
 
   
