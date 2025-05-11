@@ -38,15 +38,6 @@
 </div>
 
 <hr>
-
-<div align="center">
-  <h3>Minhas ferramentas de programação</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,firebase)](https://skillicons.dev)
-</div>
-
-  
-<hr>
  
 <div align="center">
   <a href = "mailto:esilvavalencuela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
