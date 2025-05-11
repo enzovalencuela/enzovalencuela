@@ -62,19 +62,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/enzo-silva10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/enzosilva17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="mailto:esilvavalencuela@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/3177us5h5hac2kqzu4vxt36scifa">
