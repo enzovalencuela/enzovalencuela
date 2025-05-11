@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=ffffff&center=true&width=1500&lines=Olá,+sou+Enzo+Valençuela+Sou+Desenvolvedor+Front+End+"My+competition+is+with+myself")](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7EDED&width=435&lines=Ol%C3%A1%2C+sou+Enzo+Valen%C3%A7uela;Sou+desenvolvedor+Front+End;%22My+competition+is+with+myself%22)](https://git.io/typing-svg)
 
 
 <div align="center">
