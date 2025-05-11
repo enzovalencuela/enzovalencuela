@@ -15,14 +15,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=enzovalencuela&locale=pt-br&mode=weekly&theme=jolly&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzovalencuela&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=enzovalencuela&theme=dracula&column=3&row=1&margin-w=12&margin-h=3&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://j.gifs.com/8qyzr5@large.gif?download=true"  />
 
 ###
@@ -61,7 +53,14 @@
 <img src="https://raw.githubusercontent.com/enzovalencuela/enzovalencuela/output/snake.svg" alt="Snake animation" />
 
 ###
-<br><br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=enzovalencuela&locale=pt-br&mode=weekly&theme=jolly&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzovalencuela&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=enzovalencuela&theme=dracula&column=3&row=1&margin-w=12&margin-h=3&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 <div>
 <h2>🚀 O que busco</h2>
