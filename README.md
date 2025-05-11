@@ -54,6 +54,36 @@
   
 </div >
 
+<img src="https://raw.githubusercontent.com/enzovalencuela/enzovalencuela/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="200" src="https://j.gifs.com/8qyzr5@large.gif?download=true"  />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/enzo-silva10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/enzosilva17" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="mailto:esilvavalencuela@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3177us5h5hac2kqzu4vxt36scifa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3177us5h5hac2kqzu4vxt36scifa&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <br><br>
 
 <div>
