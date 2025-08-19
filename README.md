@@ -53,16 +53,6 @@
 <p>
     Estou sempre em busca de novos desafios que me permitam crescer como profissional e me conectar com outros desenvolvedores. Meu objetivo é trabalhar em projetos inovadores e contribuir para soluções que melhorem a experiência do usuário.
 </p>
-
-<h2>📚 O que estou aprendendo</h2>
-<p>Atualmente, estou me dedicando a:</p>
-<ul>
-    <li>Desenvolvimento Full Stack: Aprendendo sobre back-end e integração com APIs.</li>
-    <li>Aprimoramento em JavaScript: Focando em entender conceitos avançados e a programação assíncrona.</li>
-    <li>React: Construindo projetos para entender melhor o ecossistema do React e sua abordagem de componentes.</li>
-</ul>
-
-
 </div>
 
 
