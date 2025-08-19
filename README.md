@@ -1,18 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7EDED&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Enzo+Valen%C3%A7uela;Sou+desenvolvedor+Front+End;"My+competition+is+with+myself")](https://git.io/typing-svg)
 
 
-<div align="center">
-  <br>
-  <p align="center">
-    <b>Visitantes</b>
-  </p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{enzovalencuela}/count.svg" />
-  </p> 
-  <br>
-</div>
-
-
 <img align="right" height="150" src="https://j.gifs.com/8qyzr5@large.gif?download=true"  />
 
 ###
