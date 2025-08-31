@@ -46,15 +46,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=enzovalencuela&theme=dracula&column=3&row=1&margin-w=12&margin-h=3&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<div>
-<h2>🚀 O que busco</h2>
-<p>
-    Estou sempre em busca de novos desafios que me permitam crescer como profissional e me conectar com outros desenvolvedores. Meu objetivo é trabalhar em projetos inovadores e contribuir para soluções que melhorem a experiência do usuário.
-</p>
-</div>
-
 
 <br> <br>
 <div align="center">
